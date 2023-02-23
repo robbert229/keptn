@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.3.0](https://github.com/keptn/keptn/compare/1.2.0...1.3.0) (2023-02-23)
+
+
+### Features
+
+* **installer:** add image pull secrets support ([#9513](https://github.com/keptn/keptn/issues/9513)) ([2edebfc](https://github.com/keptn/keptn/commit/2edebfcdcad8b1d5c3b7ee9d4e3f96ab71605543))
+
+
+### Bug Fixes
+
+* added mongo secrets as volumes ([#9524](https://github.com/keptn/keptn/issues/9524)) ([8411f4a](https://github.com/keptn/keptn/commit/8411f4af63fbe54f07931de422558eb4f5cc0645))
+
+
+### Docs
+
+* add AlexsJones and AnaMMedina21 as maintainers ([#9515](https://github.com/keptn/keptn/issues/9515)) ([b98ab55](https://github.com/keptn/keptn/commit/b98ab554f6d274eda16cf90d12331df372f8353d))
+
 ## [1.2.0](https://github.com/keptn/keptn/compare/1.1.0...1.2.0) (2023-02-09)
 
 
